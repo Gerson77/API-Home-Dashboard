@@ -14,7 +14,7 @@ API foi desenvolvida para consumo da aplicação [Home + Dashboard](https://gith
 Execute os comando abaixo:
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/Gerson77/API-Home-Dasboard
+$ git clone https://github.com/Gerson77/API-Home-Dashboard
 
 # Entrar no diretório
 $ cd diretorio
