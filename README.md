@@ -7,14 +7,14 @@ API foi desenvolvida para consumo da aplicação [Home + Dashboard](https://gith
 - NodeJs
 - Typescript
 - Pisma (ORM)
-
+- conceitos de SOLID
 
 ## **Instruções para executar o projeto** 
 
 Execute os comando abaixo:
 ```bash
 # Clonar o repositório
-$ git clone link
+$ git clone https://github.com/Gerson77/API-Home-Dasboard
 
 # Entrar no diretório
 $ cd diretorio
