@@ -22,7 +22,7 @@ userRouter.get("/user/:id", ensureAuthenticate, async (request, response) => {
   await getUserController.handle(request, response);
 });
 
-userRouter.post("/users", async (request, response) => {
+userRouter.post("/users", ensureAuthenticate, async (request, response) => {
   await createUserController.handle(request, response);
 });
 
