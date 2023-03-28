@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/server.ts",
-    "vercel-build": "npx prisma migrate deploy-production"
+    "vercel-build": "npx prisma migrate deploy"
   },
   "keywords": [],
   "author": "",
